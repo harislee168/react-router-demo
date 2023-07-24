@@ -4,10 +4,10 @@ import {useNavigate} from 'react-router-dom'
 export const Home = () => {
   const navigate = useNavigate()
   return (
-    <React.Fragment>
+    <div className='main-body'>
       <div>Home Page</div>
       <button onClick={() => {navigate('order-summary')}}>Place Order</button>
-    </React.Fragment>
+    </div>
 
   )
 }

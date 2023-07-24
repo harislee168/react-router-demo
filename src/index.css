@@ -30,3 +30,9 @@ div.main-body {
   padding: 20px 50px;
   line-height: 2;
 }
+
+input.product {
+  border-radius: 25px;
+  height:30px;
+  width:300px
+}

@@ -2,6 +2,6 @@ import React from 'react'
 
 export const NoMatch = () => {
   return (
-    <div>Page Not Found</div>
+    <div className='main-body'>Page Not Found</div>
   )
 }
