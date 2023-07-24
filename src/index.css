@@ -18,7 +18,13 @@ nav {
 }
 
 nav a {
-  margin-right: 16px
+  margin-right: 16px;
+  display: inline-block;
+  background-color: blanchedalmond;
+  border: 3px solid;
+  list-style: none;
+  padding: 3px;
+  border-radius: 5px 5px;
 }
 
 nav a.active {
