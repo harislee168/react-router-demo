@@ -50,3 +50,7 @@ button.def {
   margin:10px;
   border: 2px solid purple;
 }
+
+.td-padding {
+  padding: 10px;
+}

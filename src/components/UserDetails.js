@@ -4,6 +4,6 @@ import { useParams } from 'react-router-dom'
 export const UserDetails = () => {
   const params = useParams()
   return (
-    <div>Details about users: {params.userId}</div>
+    <div className='main-body'>Details about users: {params.userId}</div>
   )
 }
