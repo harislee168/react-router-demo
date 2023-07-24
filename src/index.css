@@ -42,3 +42,11 @@ input.product {
   height:30px;
   width:300px
 }
+
+button.def {
+  border-radius: 10px;
+  height:30px;
+  width:120px;
+  margin:10px;
+  border: 2px solid purple;
+}
